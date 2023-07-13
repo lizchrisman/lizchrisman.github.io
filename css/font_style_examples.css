@@ -14,7 +14,7 @@ header h1{
 .size_length_example{
     width: 67.5em; /* M */
     height: 5em;
-    background-color: black;
+    background-color: darkgrey;
 }
 
 nav ul{
@@ -29,5 +29,4 @@ nav a{
     text-decoration: none;
     border: 1px solid black;
     padding: 2em;
-    text-align: center;
 }
