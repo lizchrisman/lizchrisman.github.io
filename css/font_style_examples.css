@@ -1,5 +1,30 @@
 body{
-    font-family: 'Sacramento', cursive;
+    font-family: 'Noto Sans', sans-serif;
     font-size: 20px;
     font-weight: 400;
+}
+
+header h1{
+    font-family: 'Sacramento', cursive;
+}
+
+.size_length_example{
+    width: 10em; /* M */
+    height: 10em;
+    background-color: maroon;
+}
+
+nav ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav a{
+    display: block;
+    color: black; /* TODO Fix Colors */
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 2em;
+    text-align: center;
 }
