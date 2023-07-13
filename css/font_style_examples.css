@@ -9,7 +9,7 @@ header h1{
 }
 
 .size_length_example{
-    width: 100em; /* M */
+    width: 75em; /* M */
     height: 5em;
     background-color: maroon;
 }
