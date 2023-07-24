@@ -1,20 +1,22 @@
 body{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 20px;
     font-weight: 400;
-    background-color: slategrey;
+    background-color: white;
     text-align: center;
+    color: black;
 }
 
 header h1{
-    font-family: 'Sacramento', cursive;
+    font-family: 'Josefin Sans', sans-serif;
     text-align: center;
+    color: black;
 }
 
 .size_length_example{
     width: 67.5em; /* M */
     height: 5em;
-    background-color: slategrey;
+    background-color: white;
 }
 
 nav ul{
@@ -30,4 +32,5 @@ nav a{
     border: 1px solid black;
     padding: 2em;
     text-align: center;
+    color: black;
 }
