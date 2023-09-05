@@ -1,14 +1,14 @@
 body{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-weight: 400;
-    background-color: white;
+    background-color: #AFB09D;
     text-align: center;
     color: black;
 }
 
 header h1{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-align: center;
     color: black;
 }
@@ -16,7 +16,7 @@ header h1{
 .size_length_example{
     width: 67.5em; /* M */
     height: 5em;
-    background-color: white;
+    background-color: #AFB09D;
 }
 
 nav ul{
@@ -27,9 +27,9 @@ nav ul{
 
 nav a{
     display: block;
-    color: black; /* TODO Fix Colors */
+    color: #AFB09D; /* TODO Fix Colors */
     text-decoration: none;
-    border: 1px solid black;
+    border: 1px solid #AFB09D;
     padding: 2em;
     text-align: center;
     color: black;
